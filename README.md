@@ -52,3 +52,7 @@ This is fine but if you have a lot of refetching then you might bog down the app
 # GraphiQL Tool
 
 `
+
+# Final project 
+
+![alt text](image-3.png)
